@@ -10,4 +10,3 @@ def code():
 while alive:
   code()
 
-```
