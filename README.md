@@ -10,5 +10,5 @@ def code():
 while alive:
   code()
 ```
-rfvtg
+rfvg
 
