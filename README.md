@@ -10,4 +10,4 @@ def code():
 while alive:
   code()
 ```
-rfvtgbyhnujmikol
+rfvtgbyhnujmiko
