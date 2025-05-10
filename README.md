@@ -11,4 +11,4 @@ while alive:
   code()
 
 ```
-2
+3
