@@ -9,5 +9,6 @@ def code():
   commit()
 while alive:
   code()
-```
 
+```
+1
