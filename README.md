@@ -11,6 +11,5 @@ while alive:
   code()
 
 ```
-
-a
+g
 
