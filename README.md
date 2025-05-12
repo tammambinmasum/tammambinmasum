@@ -12,5 +12,5 @@ while alive:
 
 ```
 
-s
+a
 
