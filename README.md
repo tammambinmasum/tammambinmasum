@@ -11,6 +11,6 @@ while alive:
   code()
 
 ```
-fgr
+f
 
 
