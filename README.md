@@ -11,5 +11,5 @@ while alive:
   code()
 
 ```
-khlkufd
+khlk
 
