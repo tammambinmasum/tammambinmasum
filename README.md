@@ -12,7 +12,7 @@ while alive:
 
 ```
 ## My Background
-(Work In Progress)
+(Work In Progress...)
 ## My Education
-(Work In Progress)
+(Work In Progress...)
 
