@@ -12,7 +12,8 @@ while alive:
 
 ```
 ## My Background
-(Work In Progress...)
+
+My passion for coding and computer science
 ## My Education
 (Work In Progress...)
 
