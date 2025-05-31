@@ -1,4 +1,4 @@
-# I'm an aspiring developer, learning Python.
+# I'm an aspiring developer, currently learning Python.
 
 ```python
 
