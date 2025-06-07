@@ -18,5 +18,5 @@ while alive:
 
 My passion for coding and computer science started about 4 years ago, when my brother started to learn coding, blah blah blah (WIP)
 ## My Education
-(Work In P...)
+(Work IP...)
 
