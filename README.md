@@ -12,5 +12,7 @@ def code():
   commit(final)
 while alive:
   code()
+else:
+  code()
 
 ```
