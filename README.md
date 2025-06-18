@@ -8,8 +8,8 @@ alive = True
 def code():
   writecode()
   writtencode = str(writecode())
-  debug(writtencode)
-  commit()
+  final = debug(writtencode)
+  commit(final)
 while alive:
   code()
 
