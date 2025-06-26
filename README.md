@@ -5,7 +5,6 @@ name = "Tammam"
 interests = ["Programming", "Art". "Cats", "Gaming"] # and more.
 alive = True
 def code():
-  writecode()
   writtencode = str(writecode())
   final = debug(writtencode)
   commit(final)
